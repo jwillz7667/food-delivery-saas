@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Build outputs
+**/build/
+**/dist/
+**/android/app/build/
+**/ios/Pods/
+
+# Environment variables
+.env
+**/.env
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+
+# IDE-specific files
+.vscode/
+.idea/
